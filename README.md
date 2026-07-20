@@ -224,6 +224,19 @@ signature, username, grainy, oversaturated
 - [MidJourney Prompt Helper](https://prompt.noonshot.com/) - Midjourney 提示词工具
 
 ### 相关项目
+
+#### FANTASY梵想美学工具集
+来自 [dacnay816y62-hub](https://github.com/dacnay816y62-hub) 的创意视觉设计工具：
+
+- [fantasy-life-force-portrait-photography](https://github.com/dacnay816y62-hub/fantasy-life-force-portrait-photography) ⭐32 - Fantasy 生命感人像摄影 skill
+- [culture-fragment-poster-engine](https://github.com/dacnay816y62-hub/culture-fragment-poster-engine) ⭐30 - 快速搭建审美优质的海报 kv 平面 视觉
+- [regional-culture-poster](https://github.com/dacnay816y62-hub/regional-culture-poster) ⭐11 - 把中国地域文化转译成克制当代的大字海报与编辑海报
+- [fantasy-oriental-editorial-poster](https://github.com/dacnay816y62-hub/fantasy-oriental-editorial-poster) ⭐9 - 创意文字极简海报
+- [fantasy-photography-simulation-github](https://github.com/dacnay816y62-hub/fantasy-photography-simulation-github) ⭐8 - 全宇宙任意地方完成"摄影"
+
+> 📖 详细介绍请查看：[FANTASY梵想美学相关仓库](docs/fantasy-repos.md)
+
+#### 其他优秀项目
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - [awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 - [midjourney-prompts](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
