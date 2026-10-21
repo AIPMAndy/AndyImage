@@ -2,7 +2,7 @@
 
 > 全面实用的AI图像生成提示词库 | Comprehensive AI Image Generation Prompt Library
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/AndyImage?style=social)](https://github.com/yourusername/AndyImage)
+[![GitHub stars](https://img.shields.io/github/stars/AIPMAndy/AndyImage?style=social)](https://github.com/AIPMAndy/AndyImage)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
@@ -257,16 +257,14 @@ signature, username, grainy, oversaturated
 
 ## 📮 联系方式
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/AndyImage/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/AndyImage/discussions)
-- 📧 **Email**: your.email@example.com
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/AIPMAndy/AndyImage/issues)
+- 🐦 **X**: [@AIPMAndy](https://x.com/AIPMAndy)
 
 ## ⭐ Star History
 
 如果这个项目对你有帮助，请给个星标支持！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/AndyImage&type=Date)](https://star-history.com/#yourusername/AndyImage&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AIPMAndy/AndyImage&type=Date)](https://star-history.com/#AIPMAndy/AndyImage&Date)
 
 ---
 
@@ -275,5 +273,5 @@ signature, username, grainy, oversaturated
 </p>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Andy</a>
+  Made with ❤️ by <a href="https://github.com/AIPMAndy">Andy</a>
 </p>
